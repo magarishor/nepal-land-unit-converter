@@ -18,7 +18,7 @@ A plugin to convert land measurement units used in Nepal, with customizable them
 
 == Features ==  
 * Convert between Ropani, Aana, Paisa, Daam, and Square Feet.  
-* Simple shortcode to embed the converter: `[nepal_land_converter]`.  
+* Simple shortcode to embed the converter: `[nepal_land_unit_converter]`.  
 * Customizable through settings (CSS and themes).  
 * Admin panel for configuring themes and colors.  
 * Lightweight and easy to use.  
@@ -27,7 +27,7 @@ A plugin to convert land measurement units used in Nepal, with customizable them
 1. Upload the plugin files to the `/wp-content/plugins/nepal-land-unit-converter` directory.  
 2. Activate the plugin through the 'Plugins' screen in WordPress.  
 3. Go to **Settings > Land Unit Converter** to customize CSS and themes.  
-4. Use the shortcode `[nepal_land_converter]` to display the converter on any page or post.  
+4. Use the shortcode `[nepal_land_unit_converter]` to display the converter on any page or post.  
 
 == Screenshots ==  
 1. Conversion form interface.  
@@ -42,7 +42,7 @@ A plugin to convert land measurement units used in Nepal, with customizable them
 == Frequently Asked Questions ==  
 
 = How do I add the converter to a page? =  
-Use the shortcode `[nepal_land_converter]` anywhere on your site.  
+Use the shortcode `[nepal_land_unit_converter]` anywhere on your site.  
 
 = Can I customize the converter design? =  
 Yes, you can add custom CSS through the plugin settings page.  
